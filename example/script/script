@@ -1,0 +1,13 @@
+
+
+func main_script(in interface{})interface{}{
+
+    fmt.Println("in put arge is ", in)
+
+    fmt.Println("for test")
+
+    fmt.Println("the script return value is ",123)
+
+    return 123567789
+
+}
