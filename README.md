@@ -4,7 +4,7 @@ Go dynamic pseudo parser
 ## What done
 A Go pseudo script executor ,can be embedded in normal code.
 
-## Exampl
+## Example
 ##### main.go
 ```cassandraql
 func main() {
