@@ -1,4 +1,4 @@
-package scripte
+package script
 
 import (
 	"bytes"

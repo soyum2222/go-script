@@ -1,4 +1,4 @@
-package scripte
+package script
 
 type Runner interface {
 	Arg(i interface{}) error

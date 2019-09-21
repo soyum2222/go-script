@@ -1,11 +1,12 @@
-package scripte
+package script
 
 import (
 	"bytes"
 	"crypto/md5"
 	"encoding/gob"
 	"fmt"
-	"go-script/template"
+	"github.com/soyum2222/go-script/template"
+
 	"io"
 	"os"
 	"path"

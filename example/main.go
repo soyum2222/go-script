@@ -2,14 +2,14 @@ package main
 
 import (
 	"fmt"
-	"go-script/scripte"
+	"github.com/soyum2222/go-script/script"
 	"time"
 )
 
 func main() {
 
 	for {
-		script := scripte.NewScript("example/script/script")
+		script := script.NewScript("example/script/script")
 
 		script.Arge("go-script")
 		decoder, err := script.Run()
