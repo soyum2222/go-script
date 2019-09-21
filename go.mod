@@ -1,4 +1,4 @@
-module go-script
+module github.com/soyum2222/go-script
 
 go 1.12
 
